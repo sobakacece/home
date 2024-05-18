@@ -2,9 +2,21 @@
 title: Links
 links:
   - title: GitHub
-    description: GitHub is the world's largest software development platform.
+    description: My prototypes, published and not.
     website: https://github.com
     image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
+  - title: LinkedIn
+    description: My linkedin profile
+    website: https://www.linkedin.com/in/daren-dmytriiev/
+    image: linked.png
+  - title: Telegram
+    description: Write me here
+    website: https://t.me/sobaka_ce_ce
+    image: TG.png
+  - title: Itch
+    description: Play my prototypes (in browser mostly)
+    website: https://sealnf.itch.io/
+    image: https://static.itch.io/images/itchio-textless-white.svg
 menu:
     main: 
         weight: 4
@@ -13,21 +25,4 @@ menu:
 
 comments: false
 ---
-
-To use this feature, add `links` section to frontmatter.
-
-This page's frontmatter:
-
-```yaml
-links:
-  - title: GitHub
-    description: GitHub is the world's largest software development platform.
-    website: https://github.com
-    image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
-  - title: TypeScript
-    description: TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
-    website: https://www.typescriptlang.org
-    image: ts-logo-128.jpg
-```
-
-`image` field accepts both local and external images.
+Take a look at all my socials, portfolios, contacts, etc.
