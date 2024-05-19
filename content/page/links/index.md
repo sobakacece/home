@@ -3,7 +3,7 @@ title: Links
 links:
   - title: GitHub
     description: My prototypes, published and not.
-    website: https://github.com
+    website: https://github.com/sobakacece
     image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
   - title: LinkedIn
     description: My linkedin profile
