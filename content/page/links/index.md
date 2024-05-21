@@ -1,10 +1,6 @@
 ---
 title: Links
 links:
-  - title: GitHub
-    description: My prototypes, published and not.
-    website: https://github.com/sobakacece
-    image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
   - title: LinkedIn
     description: My linkedin profile
     website: https://www.linkedin.com/in/daren-dmytriiev/
@@ -17,6 +13,10 @@ links:
     description: Play my prototypes (in browser mostly)
     website: https://sealnf.itch.io/
     image: https://static.itch.io/images/itchio-textless-white.svg
+  - title: GitHub
+    description: Code of my prototypes
+    website: https://github.com/sobakacece
+    image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
 menu:
     main: 
         weight: 4

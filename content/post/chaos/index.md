@@ -2,14 +2,23 @@
 title: Primordial chaos
 description: A time when I didn't know what to expect
 slug: chaos
-date: 2020-03-06 00:00:00+0000
-image: cover.jpg
+date: 2020-09-06 00:00:00+0000
+image: cover_small.png
 categories:
     - Projects
 tags:
     - Narrative
     - Seals&Faces
 weight: 1       # You can add weight to some posts to override the default sorting (date descending)
+links:
+  - title: Acilo
+    description: Google Drive with Acilo
+    website: https://drive.google.com/file/d/1qVA00qspJ3dSjpEvCebWW_C5yBsXPN02/view?usp=drive_link
+    image: google_drive.png
+  - title: Dasha's Behance
+    description: You can find there Dasha's works
+    website: https://www.behance.net/amly_in_bread
+    image: behance_logo.png
 ---
 
 I think this is the farthest date that I can mark as the start of my personal creative work in narrative and game design.
@@ -52,4 +61,4 @@ Our setting also had a special feature. Back then, I couldn't restrain myself in
 
 You can read "Pain and Suffering in Acilo" [here](https://drive.google.com/file/d/1qVA00qspJ3dSjpEvCebWW_C5yBsXPN02/view?usp=drive_link). (Warning: Russian text)
 
-Next page: [[Kromvel]]
+Next - [about our glorios oneshot]({{< ref "/post/kromvel/index.md" >}}) 

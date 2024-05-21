@@ -2,14 +2,23 @@
 title: Первісний хаос
 description: Час коли я не знав чого очікувати (не те що зараз ха-ха)
 slug: chaos
-date: 2020-03-06 00:00:00+0000
-image: cover.jpg
+date: 2020-09-06 00:00:00+0000
+image: cover_small.png
 categories:
     - Проєкти
 tags:
     - Наратив
     - Тюлені&Обличчя
 weight: 1       # You can add weight to some posts to override the default sorting (date descending)
+links:
+  - title: Ацило
+    description: Гугл Драйв з Ацило
+    website: https://drive.google.com/file/d/1qVA00qspJ3dSjpEvCebWW_C5yBsXPN02/view?usp=drive_link
+    image: google_drive.png
+  - title: Behance Даши
+    description: Тут ви можете знайти Дашини роботи
+    website: https://www.behance.net/amly_in_bread
+    image: behance_logo.png
 ---
 
 Я думаю, що це найбільш далека дата, яку я можу відмітити як старт своєї персональної творчості у наративі та геймдизайні.
@@ -47,4 +56,4 @@ weight: 1       # You can add weight to some posts to override the default sorti
 
 Погортати "Біль і Страждання в Ацило" можна ось [тут](https://drive.google.com/file/d/1qVA00qspJ3dSjpEvCebWW_C5yBsXPN02/view?usp=drive_link). (Warning: Russian text)
 
-Наступна сторінка: [[Kromvel]]
+Наступна сторінка: [Kromvel]({{< ref "/post/kromvel/index.uk.md" >}}) 
