@@ -56,4 +56,4 @@ links:
 
 Погортати "Біль і Страждання в Ацило" можна ось [тут](https://drive.google.com/file/d/1qVA00qspJ3dSjpEvCebWW_C5yBsXPN02/view?usp=drive_link). (Warning: Russian text)
 
-Наступна сторінка: [Kromvel]({{< ref "/post/kromvel/index.uk.md" >}}) 
+Наступна сторінка: [Кромвель]({{< ref "/post/kromvel/index.uk.md" >}}) 

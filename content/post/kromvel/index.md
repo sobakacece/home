@@ -56,3 +56,5 @@ The best part was probably the fights. It was the first time I felt that the loc
 We earned almost nothing. But I will remember that experience, that orgasm from the birth of your project, bringing it to the end, until the end of my days.
 
 You can read Kromvel [here](https://www.dmsguild.com/product/348435/Kromvel-Insanity-and-Courage)
+
+Previos page - [Primodial Chaos]({{< ref "/post/chaos/index.md" >}}) 

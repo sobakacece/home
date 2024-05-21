@@ -61,4 +61,4 @@ Our setting also had a special feature. Back then, I couldn't restrain myself in
 
 You can read "Pain and Suffering in Acilo" [here](https://drive.google.com/file/d/1qVA00qspJ3dSjpEvCebWW_C5yBsXPN02/view?usp=drive_link). (Warning: Russian text)
 
-Next - [about our glorios oneshot]({{< ref "/post/kromvel/index.md" >}}) 
+Next - [about Kromvel]({{< ref "/post/kromvel/index.md" >}}) 
