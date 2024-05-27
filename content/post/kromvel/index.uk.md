@@ -2,7 +2,7 @@
 title: Кромвель
 description: Пригода про безумство та відвагу
 slug: Кромвель
-date: 2021-02-06 00:00:00+0000
+date: 2020-12-06 00:00:00+0000
 image: cover.png
 categories:
     - Проєкти
@@ -56,5 +56,7 @@ links:
 ![Один з тих бандитів, що командує крабом](bandit.png)
 
 Почитати Кромвель можна [тут](https://www.dmsguild.com/product/348435/Kromvel-Insanity-and-Courage)
+
+Наступна сторінка - [Бестіарій дуже-дуже дивних мутантів]({{< ref "/post/bestiary/index.md" >}}) 
 
 Минула сторінка - [Первісний Хаос]({{< ref "/post/chaos/index.uk.md" >}}) 
